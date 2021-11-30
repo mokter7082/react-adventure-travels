@@ -19,7 +19,7 @@ const Mynav = () => {
         <Container>
           <Navbar.Brand>
             {" "}
-            <h2 className="text-success">Advancer Travels</h2>{" "}
+            <h2 className="text-success">Adventure Travel</h2>{" "}
           </Navbar.Brand>
           <Navbar.Toggle aria-controls="responsive-navbar-nav" />
           <Navbar.Collapse id="responsive-navbar-nav">

@@ -4,7 +4,7 @@ import "./Advanture.css";
 const Advanture = () => {
   return (
     <div>
-      <h1 className="my-4 text-center text-success">Extra Facilitis</h1>
+      <h1 className="my-4 text-center text-success">Extra Facilities</h1>
       <div className="row">
         <div className="col-md-6">
           <div className="row">
