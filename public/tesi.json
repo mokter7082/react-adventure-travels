@@ -1,0 +1,52 @@
+[
+    {
+        "adName":"Cox's Bazar",
+        "ticketPrice":"2500",
+        "serviceDes":"Cox's Bazar Kaksabājāra; pronounced [kɔksbadʒaɾ]) is a city, fishing port, tourism centre, and district headquarters in southeastern Bangladesh. It is famous mostly for its long natural sandy beach. It is located 150 km (93 mi)",
+        "img":"https://ichef.bbci.co.uk/news/1024/media/images/62417000/jpg/_62417874_coxbazarpicture9.jpg"
+    },
+    {
+    
+        "adName":"Saint Martin",
+        "ticketPrice":"3000",
+        "serviceDes":"St. Martin's Island is a small island (area only 3 km2) in the northeastern part of the Bay of Bengal, about 9 km south of the tip of the Cox's Bazar-Teknaf peninsula, and forming the southernmost part of Bangladesh. ",
+        "img":"https://www.bdtrips.com/wp-content/uploads/2018/05/saint-martin-island.jpg"
+    },
+    {
+        "adName":"Sondarban",
+        "ticketPrice":"2000",
+        "serviceDes":"Sundarbans is a mangrove area in the delta formed by the confluence of the Ganges, Brahmaputra and Meghna Rivers in the Bay of Bengal. It spans from the Hooghly River in India's state of West Bengal to the Balesw",
+        "img":"https://cdn.jagonews24.com/media/PhotoGalleryNew/BG/2019November/3-20200717111509.jpg"
+    },
+    {
+        "adName":"Sajek Valley",
+        "ticketPrice":"2000",
+        "serviceDes":"Sajek Valley is one of the popular tourist spots in Bangladesh situated among the hills of the Kasalong range of mountains in Sajek union, ",
+        "img":"https://cdn.jagonews24.com/media/PhotoGalleryNew/BG/2019November/4-20200717111519.jpg"
+    },
+    {
+        "adName":"Nizom Dhip",
+        "ticketPrice":"2000",
+        "serviceDes":"The destroyer, named after Osman Ali Khan, the last Nizam of Hyderabad, was commissioned into the RAN in 1940, although the ship remained the property of the Royal Navy for her entire career.",
+        "img":"https://cdn.jagonews24.com/media/PhotoGalleryNew/BG/2019November/7-20200717111555.jpg"
+    },
+    {
+        "adName":"Safari Park",
+        "ticketPrice":"2000",
+        "serviceDes":"Bara Rathura mouza of Mauna union under Sreepur upazila of Gazipur district and Pirujali mouza of Pirujali union of Sadar upazila have 4909.0 ",
+        "img":"https://cdn.jagonews24.com/media/PhotoGalleryNew/BG/2019November/9-20200717111630.jpg"
+    },
+    {
+        "adName":"Koa Kata",
+        "ticketPrice":"2000",
+        "serviceDes":"Negara Indonesia memiliki bahasa nasional, yakni Bahasa Indonesia. Walaupun Bahasa Indonesia hadir sebagai bahasa yang digunakan sehari-hari, terkadang masih banyak kata yang terdengar asing. ",
+        "img":"https://cdn.jagonews24.com/media/PhotoGalleryNew/BG/2019November/10-20200717111640.jpg"
+    },
+    {
+        "adName":"Hour Tango",
+        "ticketPrice":"2000",
+        "serviceDes":"Hadir sebagai acuan berbahasa Indonesia, tentunya KBBI disusun oleh lembaga yang terakreditasi dan kompeten dibidang bahasa. Tak lain adalah Badan Pengembangan dan Pembinaan Bahasa, sebagai lembaga penyusunan KBBI.. ",
+        "img":"https://cdn.jagonews24.com/media/PhotoGalleryNew/BG/2019November/8-20200717111606.jpg"
+    }
+
+]
